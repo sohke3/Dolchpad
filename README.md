@@ -14,3 +14,4 @@ I printed it with Black resin from JLCPCB(SLA) and posted process of assembly an
 https://kbddiary.tistory.com/61 - designing and order <br/>
 https://kbddiary.tistory.com/62 - assembling <br/>
 https://kbddiary.tistory.com/63 - installing kmk on rp2040-zero <br/>
+<br/><br/><br/>![assembled](./image/image.jpg)
