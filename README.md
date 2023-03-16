@@ -15,3 +15,5 @@ https://kbddiary.tistory.com/61 - designing and order <br/>
 https://kbddiary.tistory.com/62 - assembling <br/>
 https://kbddiary.tistory.com/63 - installing kmk on rp2040-zero <br/>
 <br/><br/><br/>![assembled](./image/image.jpg)
+<br/>![assembled1](./image/image1.jpg)
+<br/>![assembled2](./image/image2.jpg)
