@@ -1,12 +1,12 @@
 # Dolchpad
 G80-1813(Dolch)-like open source macropad
 
-required
-3Ø *3mm circular magnet x 12ea
-rp2040 zero
-1n4148 x 10ea
-mx switch x 10ea
-wires
+required<br/>
+3Ø *3mm circular magnet x 12ea<br/>
+rp2040 zero<br/>
+1n4148 x 10ea<br/>
+mx switch x 10ea<br/>
+wires<br/>
 
 I printed it with Black resin from JLCPCB(SLA) and posted process of assembly and installing kmk firmware on my blog. <br/> It's written in korean but it doesn't matter, I think. <br/> you can use translator on chrome
 
